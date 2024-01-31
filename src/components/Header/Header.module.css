@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.fon{
+    background-image: url('https://abrakadabra.fun/uploads/posts/2021-12/1640241511_2-abrakadabra-fun-p-zadnii-fon-biblioteka-2.jpg');
+    height: 300px;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+}
+
+.title {
+  text-align: center;
+  color: white;
+}
+
+.search {
+  width: 50%;
+  height: 50px;
+  border: 5px solid gray;
+  border-radius: 20px;
+  justify-content: space-around;
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  text-align: center;
+}
+
+.books{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    width: 600px;
+    height: 250px;
+    border: 5px solid gray;
+    border-radius: 20px;  
+    padding: 20px;
+}
+
+.info{
+    display: flex;
+}
+
+.category{
+    width: 200px;
+}
+
+#nameOfCategory{
+    color: white;
+}
+
+
+
